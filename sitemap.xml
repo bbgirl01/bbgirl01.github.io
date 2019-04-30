@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2018/05/29/hello-redux/</loc>
+    
+    <lastmod>2019-04-30T03:22:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/04/29/hello-nodejs1/</loc>
+    
+    <lastmod>2019-04-30T03:21:30.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/09/hello-hexo/</loc>
+    
+    <lastmod>2019-04-30T03:14:27.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2018-06-04T02:28:19.000Z</lastmod>
+    
+  </url>
+  
+</urlset>
